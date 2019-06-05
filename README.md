@@ -1,2 +1,5 @@
-# FranzBoy
-Placa no formato de game para ensino de programação e desenvolvimento de jogos
+# FranzBoy by Franzininho
+
+FranzBoy é uma placa no formato de game. Possui display OLED, 6 teclas e é baseado no microcontolador Atmega328.
+
+
