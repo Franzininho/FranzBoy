@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name oled)(type KiCad)(uri ${KIPRJMOD}/oled.pretty)(options "")(descr ""))
+  (lib (name tp4056_breakout)(type KiCad)(uri ${KIPRJMOD}/tp4056_breakout)(options "")(descr ""))
+  (lib (name Battery_Holders)(type KiCad)(uri C:/Users/fabio/Dropbox/Kicad/bibliotecas/Battery_Holders.pretty-master/Battery_Holders.pretty-master)(options "")(descr ""))
+  (lib (name library)(type KiCad)(uri ${KIPRJMOD}/library.pretty)(options "")(descr ""))
+  (lib (name hole_15x3)(type KiCad)(uri ${KIPRJMOD}/hole_15x3.pretty)(options "")(descr ""))
+  (lib (name Jumper)(type KiCad)(uri C:/Users/fabio/Dropbox/Kicad/bibliotecas/Jumper.pretty)(options "")(descr ""))
+)

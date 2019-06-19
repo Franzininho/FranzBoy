@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name oled96)(type Legacy)(uri ${KIPRJMOD}/oled.pretty/oled96.lib)(options "")(descr ""))
+  (lib (name tp4056_breakout)(type Legacy)(uri ${KIPRJMOD}/tp4056_breakout/tp4056_breakout.lib)(options "")(descr ""))
+)
