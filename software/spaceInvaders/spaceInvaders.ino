@@ -402,7 +402,11 @@ void setup()
   display.print("por Fabio Souza");
   display.display();
 
-  delay(5000);
+  delay(3000);
+/*
+  while(digitalRead(FIRE_BUT) == HIGH){
+  delay(10);
+  }*/
   
 }
  
