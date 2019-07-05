@@ -1,1 +1,1 @@
-[documentação do VUSB](https://github.com/Franzininho/FranzBoy/projects)
+[documentação do VUSB](https://www.obdev.at/products/vusb/index.html)
