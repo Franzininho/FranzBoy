@@ -317,7 +317,7 @@ struct PlayerStruct  {
 
 
 // general global variables
-Adafruit_SSD1306 display(1);
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire);
 
  
 //alien global vars
