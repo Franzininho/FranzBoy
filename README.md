@@ -6,26 +6,26 @@ FranzBoy é uma placa no formato de game. Possui display OLED, 6 teclas e é bas
 ## Pinagem
 
 OLED:
-- PC4: SDA
-- PC5: SCL
+- PC4: SDA - A4
+- PC5: SCL - A5
  
 BOTÕES:
-- UP:	PD3
-- DOWN: PD4
-- LEFT: PD2
-- RIGHT: PD5
-- A: PD6
-- B: PD7
+- UP:	PD3 - D3
+- DOWN: PD4 - D4
+- LEFT: PD2 - D2
+- RIGHT: PD5 - D5
+- A: PD6 - D6
+- B: PD7 - D7
 
 USB:
-- D+: PD2
-- D-: PD4
+- D+: PD2 - D2
+- D-: PD4 - D4
 
-BUZZER: PB1
+BUZZER: PB1 - D9
 
-IR: PB2
+IR: PB2 - D10
  
-LED: PB5
+LED: PB5 - D13
 
 
 
